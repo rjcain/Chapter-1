@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Hello
+comment0.text=\n\ Prints\ a\ message\n\n\ James\ Cain\n\ Version\ 1.0\n\ \n\ Answer\ 1\:\ No\ error\ message.\n\ \n\ Answer\ 2\:\ There\ is\ no\ error\ because\ the\ change\ of\ spelling\ simply\ affects\n\ \ \ \ \ \ \ \ \ \ \ \ output\ of\ the\ message.\n\ \n\ Answer\ 3\:\ unclosed\ string\ literal,\ ';'\ expected,\ reached\ end\ of\ file\ while\n\ \ \ \ \ \ \ \ \ \ \ \ parsing.\n\ \n\ Answer\ 4\:\ 4\ errors.\n\ \n\ Answer\ 5\:\ ';'\ expected.\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

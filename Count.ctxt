@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Count
+comment0.text=\n\ Counts\ to\ 5\ in\ three\ languages\n\n\ James\ Cain\n\ Version\ 1.0\n\ \n\ Question\ 2\:\ The\ program\ is\ easier\ to\ read\ with\ the\ spaces\n\ \n\ Question\ 3\:\ Illegal\ start\ of\ expression\n\ \n\ Question\ 4\:\ No,\ it\ does\ not\ cause\ problems\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Simple
+comment0.text=\n\ Prints\ a\ message\n\n\ James\ Cain\n\ Version\ 1.0\n\ \n\ 1.\tsimple\:\ works\n\ \ \ 2.\tSimpleProgram\:\ works\n\ \ \ 3.\t1Simple\:\ doesn't\ work\n\ \ \ 4.\t_Simple_\:\ works\n\ \ \ 5.\t*Simple*\:\ doesn't\ work\n\ \ \ 6.\t$123_45\:\ works\n\ \ \ 7.\tSimple\!\:\ doesn't\ work\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
